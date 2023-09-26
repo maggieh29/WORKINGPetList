@@ -1,0 +1,10 @@
+Maggie Harvey
+1. Identify the parts of the code
+UI: in the activity_main xml
+String resources: in res>values>strings.xml
+Populate list view method takes a int input of 1 or 2 and chooses to use the string or data
+resource depending on the variable.
+These method are defined but empty below the populate method.
+
+2. What is the difference between android.R.layout.simple_list_item_1 and android.R.layout.simple_list_item_2?
+list 1 only uses one text view, list 2 uses two list text views.
